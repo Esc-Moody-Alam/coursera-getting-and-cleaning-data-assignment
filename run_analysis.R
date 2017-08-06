@@ -1,5 +1,6 @@
 library(tidyr)
 library(dplyr)
+library(reshape2)
 
 #First, let's make sure we the data
 datafile <- "getdata_dataset.zip"

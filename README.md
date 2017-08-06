@@ -18,4 +18,4 @@ The end result is shown in the file `tidyoutput.txt`.
 My coursework structure follows the following online coursework example.
 https://github.com/bgentry/coursera-getting-and-cleaning-data-project
 
-All the uploaded code is written by me.
+All the uploaded code is written by me. The readme files are from the above example.
